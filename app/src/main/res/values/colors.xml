@@ -1,0 +1,16 @@
+<resources>
+    <color name="colorPrimary">#FF6B35</color>
+    <color name="colorPrimaryDark">#E55A2B</color>
+    <color name="colorAccent">#FF8C42</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray">#999999</color>
+    <color name="gray_dark">#666666</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#888888</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="bg_main">#F8F8F8</color>
+    <color name="status_pending">#FF9800</color>
+    <color name="status_done">#4CAF50</color>
+</resources>

@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_item_food.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/item_food.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_fragment_home.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_bg_button_orange.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/bg_button_orange.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_bg_card_white.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/bg_card_white.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_ic_dot_orange.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/ic_dot_orange.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_activity_register.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_ic_cart.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_ic_mine.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/ic_mine.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_item_cart.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_activity_splash.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_activity_food_detail.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_ic_order.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/ic_order.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_bg_status_pending.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/bg_status_pending.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_item_order.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_fragment_cart.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_activity_login.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_ic_check.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_fragment_mine.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_ic_home.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/drawable_bg_tag_category.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/drawable/bg_tag_category.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-merged_res-44:/layout_fragment_order.xml.flat",
+        "source": "com.example.foodorderapp-main-46:/layout/fragment_order.xml"
+    }
+]

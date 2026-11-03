@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#F8F8F8</color>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF8C42</color>
+    <color name="colorPrimary">#FF6B35</color>
+    <color name="colorPrimaryDark">#E55A2B</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="gray">#999999</color>
+    <color name="gray_dark">#666666</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="status_done">#4CAF50</color>
+    <color name="status_pending">#FF9800</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#888888</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_to_cart">加入购物车</string>
+    <string name="app_name">外卖点菜</string>
+    <string name="login">登录</string>
+    <string name="logout">退出登录</string>
+    <string name="order_no">订单号：%s</string>
+    <string name="password">密码</string>
+    <string name="phone">手机号</string>
+    <string name="register">注册</string>
+    <string name="submit_order">提交订单</string>
+    <string name="tab_cart">购物车</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_mine">我的</string>
+    <string name="tab_orders">订单</string>
+    <string name="total_price">合计：¥%s</string>
+    <string name="unit_price">¥%s</string>
+    <string name="username">用户名</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+    <style name="ToolbarStyle" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
